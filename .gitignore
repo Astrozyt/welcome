@@ -1,0 +1,7 @@
+node_modules
+*.blend
+.cache
+dist
+Head.png
+.editorconfig
+*.glb
