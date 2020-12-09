@@ -1,0 +1,28 @@
+@media screen and (max-width: 759px) {
+  .Title {
+  }
+  .HeadMedium {
+    width: 100%;
+    flex-grow: 4;
+  }
+  .NavigationList {
+    list-style-type: none;
+    padding-left: 0;
+    width: 100%;
+    display: flex;
+    place-content: space-evenly;
+  }
+  .Head,
+  .Footer {
+    height: 20%;
+    flex-grow: 1;
+  }
+
+  .Body {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+
+/*# sourceMappingURL=welcome/mob-index.717fb3de.css.map */
